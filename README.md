@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+* I don't know what to put here
+* I really don't know what to put here
 
 ## What it does
 
-FEATURES PLACEHOLDER
+* I don't know what to put here
+* I really don't know what to put here
 
 ## Getting started
 
