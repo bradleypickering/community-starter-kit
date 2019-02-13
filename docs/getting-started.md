@@ -35,4 +35,7 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+Great Job! Your first repo looks great!
+Great Job! You posted your first issue!
+Fingers Crossed! You submitted your first pull request!
+Oh no! You have encounted your first merge error, please resolve this.
